@@ -1,0 +1,9 @@
+# Temporary curl-ffi might replace it in the future
+aiohttp
+yarl
+# stem # If we can get tor to work (hopefully)
+brotli
+attrs
+selectolax
+iters
+orjson
